@@ -3,6 +3,5 @@
 }
 
 [data-page=liveMatch] [data-layer=banners] > image {
-    display: none;
-    /*content: href("https://assets.cdnppb.net/static/datavis/css/3d/normal/betfair_hoarding.png");*/
+    href: "https://assets.cdnppb.net/static/datavis/css/3d/normal/betfair_hoarding.png";
 }
